@@ -5,7 +5,7 @@
 Suivez les étapes ci-dessous pour installer et exécuter les tests :
 
 1. Cloner le dépôt Git :
-  git clone <URL_DU_DEPOT_GIT>
+  git clone <[URL_DU_DEPOT_GIT](https://github.com/sebastienlfv/login-test)>
   cd <login-test>
 
 2. Installer les modules avec npm :
