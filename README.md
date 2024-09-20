@@ -13,7 +13,7 @@ Suivez les étapes ci-dessous pour installer et exécuter les tests :
 
 3. Exécuter les tests via npm :
   Lancer le terminal et exécuter la commande :
-    npm run test
+  npm run test
     
 4. Choisir la plateforme de test :
   Lorsque Cypress s'ouvre, sélectionnez le navigateur de votre choix (Edge, Chrome ou Electron).
